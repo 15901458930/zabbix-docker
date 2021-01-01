@@ -126,7 +126,6 @@ services:
      - mysql-server
      - zabbix-database
      - mysql-database
-     -
 # elasticsearch:
 #  image: elasticsearch
 #  environment:
